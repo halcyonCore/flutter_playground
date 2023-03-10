@@ -1,2 +1,2 @@
-# flutter_playground
-testing Flutter things
+## Goals
+Learn more about Flutter
